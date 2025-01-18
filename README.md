@@ -13,7 +13,7 @@ This program allows you to search for specific strings within the memory of a ru
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_user/your_repository.git
+   git clone https://github.com/amacapozzi/astral-memory-driver/
    
 2. cd your_repository
 3. go mod tidy
